@@ -7,10 +7,19 @@ Esse estudo completa todos os passos de um projeto de Pipeline de dados (Geraç�
 Inicie esse projeto como forma de estudo, para entender a lógica da engenharia de dados e também aprender um pouco sobre cada tecnologia presente nessa Arquitetura.
 
 ### Tecnologias utilizadas:
-* dsds
- 
- 
- 
-1. a
-2. b
-3. c
+* Linguagens de Programação: Python | Scala | R | SQL | C#
+* Azure SQL Database
+* MongoDB (CosmosDB)
+* SQL Server 2019 (Instalado onpremise)
+* Azure Storage Account
+* Azure Databricks
+* Azure Event hub
+* Azure Function
+* Azure Virtual Machine
+* Azure DevOps
+* CDC Debezium
+* Apache Kafka
+* Apache Nife
+* Power BI
+
+### Arquitetura V1:
