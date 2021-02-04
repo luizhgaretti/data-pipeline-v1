@@ -20,6 +20,7 @@ Inicie esse projeto como forma de estudo, para entender a lógica da engenharia 
   * Apache Kafka
   * Apache Nife
   * Power BI
+  * API Twitter for Developed
 
 ### Arquitetura V1:
   * Imagem
