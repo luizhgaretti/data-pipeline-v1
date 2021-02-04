@@ -1,5 +1,4 @@
 # Projeto: data-pipeline-v1
-## Tudo bem com você?!
 ### Luiz Henrique Garetti | luizh.rosario@gmail.com | @luizhgaretti
 
 ### Descrição do Projeto:
