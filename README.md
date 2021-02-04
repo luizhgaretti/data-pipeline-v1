@@ -1,5 +1,5 @@
 # Projeto: data-pipeline-v1
-### Luiz Henrique Garetti | luizh.rosario@gmail.com | @luizhgaretti
+### Luiz Henrique Garetti | luizh.rosario@gmail.com | @luizhgaretti | https://dataisbig.com.br/
 
 ### Descrição do Projeto:
 Esse estudo completa todos os passos de um projeto de Pipeline de dados (Geração, Sources, Aquisição, Processamento, Analise e Consumo).
