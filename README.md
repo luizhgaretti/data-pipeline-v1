@@ -11,16 +11,18 @@ Inicie esse projeto como forma de estudo, para entender a lógica da engenharia 
   * MongoDB (CosmosDB)
   * SQL Server 2019 (Instalado onpremise)
   * Azure Storage Account
-  * Azure Databricks
+  * Azure Databricks | Delta Lake
   * Azure Event hub
   * Azure Function
   * Azure Virtual Machine
-  * Azure DevOps
+  * Azure DevOps | Terraform
+  * Azure Streaming Analytics
   * CDC Debezium
   * Apache Kafka
   * Apache Nife
   * Power BI
   * API Twitter for Developed
+  * Debezium
 
 ### Arquitetura V1:
   * Imagem
