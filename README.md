@@ -30,6 +30,6 @@ Inicie esse projeto como forma de estudo, para entender a lógica da engenharia 
 ### Post Blog sobre o desenvolvimento:
   * Post01: https://luizhgaretti.com.br/01-arquitetura-projeto-data-pipeline/
   * Post02: https://luizhgaretti.com.br/02-projeto-data-pipeline-azure-server-sftp/
-  * Post03: 
+  * Post03: https://luizhgaretti.com.br/03-projeto-data-pipeline-azure-sql-database/
   * Post04: 
   * Post05: 
