@@ -28,8 +28,8 @@ Inicie esse projeto como forma de estudo, para entender a lógica da engenharia 
   * Imagem
 
 ### Post Blog sobre o desenvolvimento:
-  * Post01: XXXXXXX
-  * Post02: XXXXXXX
-  * Post03: XXXXXXX
-  * Post04: XXXXXXX
-  * Post05: XXXXXXX
+  * Post01: https://luizhgaretti.com.br/01-arquitetura-projeto-data-pipeline/
+  * Post02: https://luizhgaretti.com.br/02-projeto-data-pipeline-azure-server-sftp/
+  * Post03: 
+  * Post04: 
+  * Post05: 
